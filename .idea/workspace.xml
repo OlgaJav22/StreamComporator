@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7481403-de13-4353-9059-2f9b24a31763" name="Changes" comment="new" />
+    <list default="true" id="a7481403-de13-4353-9059-2f9b24a31763" name="Changes" comment="готово!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -27,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Sergey/IdeaProjects/StreamComporator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677863371753</updated>
-      <workItem from="1677863373207" duration="461000" />
+      <workItem from="1677863373207" duration="1236000" />
+      <workItem from="1678007699081" duration="7494000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1677863816893</created>
@@ -50,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677863816893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="готово!">
+      <created>1677864012383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677864012383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="готово!" />
+    <option name="LAST_COMMIT_MESSAGE" value="готово!" />
   </component>
 </project>
